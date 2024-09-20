@@ -8,7 +8,7 @@ You can download the entire project as a `.rar` file from the following link:
 
 ## **Description**
 
-**I-LEARN** is an ASP.NET MVC web application designed to [briefly describe the primary purpose of your application, e.g., manage courses, handle user authentication, display product listings, etc.]. This application demonstrates key features of state management, user roles, and database operations in a modern web application. It includes CRUD operations, authentication, and role-based authorization using ASP.NET Identity.
+**I-LEARN** is an ASP.NET MVC web application designed to  to manage courses, handle user authentication, and facilitate interaction between trainees and instructors. It allows for seamless course registration, tracking progress, and managing roles within an educational setting, creating an efficient platform for learning and teaching. This application demonstrates key features of state management, user roles, and database operations in a modern web application. It includes CRUD operations, authentication, and role-based authorization using ASP.NET Identity.
 
 The project utilizes:
 - ASP.NET Core MVC for the backend
