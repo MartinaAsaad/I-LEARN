@@ -23,7 +23,7 @@ The project utilizes:
 ### **Installation and Setup Instructions**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/MartinaAsaad/I-LEARN.git
    ```
 2. Open the project in **Visual Studio**.
 3. Set up the database:
