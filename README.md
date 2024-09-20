@@ -4,7 +4,7 @@ Due to GitHub's file size limitations, the entire project, including any large a
 
 You can download the entire project as a `.rar` file from the following link:
 
-[Download Project Files from Google Drive]([https://drive.google.com/link-to-your-zip-file](https://drive.google.com/file/d/1Ffvlx_A_D77MFA_lj08f1kLPADWIAwja/view?usp=drive_link))
+[Download Project Files from Google Drive](https://drive.google.com/file/d/1Ffvlx_A_D77MFA_lj08f1kLPADWIAwja/view?usp=drive_link)
 
 ## **Description**
 
