@@ -1,3 +1,13 @@
+Due to GitHub's file size limitations, the entire project, including any large assets and additional files, has been uploaded as a `.zip` file on Google Drive.
+
+## Download the Project
+
+You can download the entire project as a `.zip` file from the following link:
+
+[Download Project Files from Google Drive]([https://drive.google.com/link-to-your-zip-file](https://drive.google.com/file/d/1Ffvlx_A_D77MFA_lj08f1kLPADWIAwja/view?usp=drive_link))
+
+## **Description**
+
 **I-LEARN** is an ASP.NET MVC web application designed to [briefly describe the primary purpose of your application, e.g., manage courses, handle user authentication, display product listings, etc.]. This application demonstrates key features of state management, user roles, and database operations in a modern web application. It includes CRUD operations, authentication, and role-based authorization using ASP.NET Identity.
 
 The project utilizes:
@@ -21,10 +31,7 @@ The project utilizes:
 - **jQuery / JavaScript** for dynamic user interactions
 
 ### **Installation and Setup Instructions**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/MartinaAsaad/I-LEARN.git
-   ```
+1. Download the `.rar` file from the link above then extract it.
 2. Open the project in **Visual Studio**.
 3. Set up the database:
    - Ensure you have a local SQL Server instance running or modify the connection string in `appsettings.json`.
